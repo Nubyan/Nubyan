@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nubyan
 - 👀 I’m interested in coding, motorcycles, photography, social media, video editing.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact@nubyan.ro
 and on the following social platforms:
 - 🎥 https://www.youtube.com/c/NubyanMotoVlog/
